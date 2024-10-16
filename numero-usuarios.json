@@ -1,8 +1,14 @@
 {
-    "Matemática": 9.4,
-    "Português": 10.0,
-    "Química": 7.5,
-    "Física": 9.0,
-    "Biologia": 8.7,
-    "História":9.8
+    "Matemática": 10.0,
+    "Matemática II": 8.9,
+    "Matemática III": 9.8,
+    "Português": 9.7,
+    "Química I": 9.7,
+    "Física": 9.9,
+    "Física II": 9.6,
+    "Física III": 9.0,
+    "Biologia II": 9.8,
+    "Educação Física": 9.0,
+    "Educação Financeira": 10.0,
+    "Projeto de Vida": 10.0
 }
